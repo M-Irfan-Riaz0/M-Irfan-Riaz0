@@ -26,7 +26,9 @@ I live by this mantra, creating interfaces that are not only visually stunning b
 - I dream in flexbox and grid layouts
 
 ### 📫 Let's Connect!
-
+<a href="https://www.linkedin.com/in/muhammad-irfan-riaz786">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="32" height="32" />
+</a>
 [![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/muhammad-irfan-riaz786)
 
 Remember: The user interface is like a joke. If you have to explain it, it's not that good!
